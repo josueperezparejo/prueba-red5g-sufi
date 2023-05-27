@@ -1,0 +1,16 @@
+input[type="date"]::-webkit-calendar-picker-indicator, input[type="time"]::-webkit-calendar-picker-indicator{
+    background-image: url('../../assets/iconCalendar.svg')
+}
+
+.form-control:focus {
+    border-color: transparent;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem #DD3542;
+    border: 1px;
+}
+
+.form-select:focus {
+    border-color: transparent;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem #DD3542;
+}

@@ -1,0 +1,214 @@
+{
+    "usuarios": [
+        {
+            "fecha_hora": "2023-05-01 10:15:32",
+            "desembolso": 1,
+            "tipo_documento": "cedula",
+            "numero_documento": "12345678",
+            "monto": 150000
+        },
+        {
+            "fecha_hora": "2023-05-02 09:45:21",
+            "desembolso": 2,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "98765432",
+            "monto": 112000
+        },
+        {
+            "fecha_hora": "2023-05-03 14:30:12",
+            "desembolso": 3,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "54321678",
+            "monto": 225000
+        },
+        {
+            "fecha_hora": "2023-05-04 11:20:05",
+            "desembolso": 4,
+            "tipo_documento": "cedula",
+            "numero_documento": "90817263",
+            "monto": 75000
+        },
+        {
+            "fecha_hora": "2023-05-05 16:55:42",
+            "desembolso": 5,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "45678912",
+            "monto": 300000
+        },
+        {
+            "fecha_hora": "2023-05-06 13:10:27",
+            "desembolso": 6,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "65432198",
+            "monto": 187500
+        },
+        {
+            "fecha_hora": "2023-05-07 08:45:36",
+            "desembolso": 7,
+            "tipo_documento": "cedula",
+            "numero_documento": "13579246",
+            "monto": 120000
+        },
+        {
+            "fecha_hora": "2023-05-08 12:30:19",
+            "desembolso": 8,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "72638491",
+            "monto": 143000
+        },
+        {
+            "fecha_hora": "2023-05-09 15:55:10",
+            "desembolso": 9,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "78912345",
+            "monto": 450000
+        },
+        {
+            "fecha_hora": "2023-05-10 09:10:52",
+            "desembolso": 10,
+            "tipo_documento": "cedula",
+            "numero_documento": "31987456",
+            "monto": 127500
+        },
+        {
+            "fecha_hora": "2023-05-11 14:40:30",
+            "desembolso": 11,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "24681357",
+            "monto": 240000
+        },
+        {
+            "fecha_hora": "2023-05-01 10:15:32",
+            "desembolso": 12,
+            "tipo_documento": "cedula",
+            "numero_documento": "12345678",
+            "monto": 150000
+        },
+        {
+            "fecha_hora": "2023-05-02 09:45:21",
+            "desembolso": 13,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "98765432",
+            "monto": 112000
+        },
+        {
+            "fecha_hora": "2023-05-03 14:30:12",
+            "desembolso": 14,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "54321678",
+            "monto": 225000
+        },
+        {
+            "fecha_hora": "2023-05-04 11:20:05",
+            "desembolso": 15,
+            "tipo_documento": "cedula",
+            "numero_documento": "90817263",
+            "monto": 75000
+        },
+        {
+            "fecha_hora": "2023-05-05 16:55:42",
+            "desembolso": 16,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "45678912",
+            "monto": 300000
+        },
+        {
+            "fecha_hora": "2023-05-06 13:10:27",
+            "desembolso": 17,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "65432198",
+            "monto": 187500
+        },
+        {
+            "fecha_hora": "2023-05-07 08:45:36",
+            "desembolso": 18,
+            "tipo_documento": "cedula",
+            "numero_documento": "13579246",
+            "monto": 120000
+        },
+        {
+            "fecha_hora": "2023-05-08 12:30:19",
+            "desembolso": 19,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "72638491",
+            "monto": 143000
+        },
+        {
+            "fecha_hora": "2023-05-09 15:55:10",
+            "desembolso": 20,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "78912345",
+            "monto": 450000
+        },
+        {
+            "fecha_hora": "2023-05-10 09:10:52",
+            "desembolso": 21,
+            "tipo_documento": "cedula",
+            "numero_documento": "31987456",
+            "monto": 127500
+        },
+        {
+            "fecha_hora": "2023-05-11 14:40:30",
+            "desembolso": 22,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "24681357",
+            "monto": 240000
+        },
+        {
+            "fecha_hora": "2023-05-01 10:15:32",
+            "desembolso": 23,
+            "tipo_documento": "cedula",
+            "numero_documento": "12345678",
+            "monto": 150000
+        },
+        {
+            "fecha_hora": "2023-05-02 09:45:21",
+            "desembolso": 24,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "98765432",
+            "monto": 112000
+        },
+        {
+            "fecha_hora": "2023-05-03 14:30:12",
+            "desembolso": 25,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "54321678",
+            "monto": 225000
+        },
+        {
+            "fecha_hora": "2023-05-04 11:20:05",
+            "desembolso": 26,
+            "tipo_documento": "cedula",
+            "numero_documento": "90817263",
+            "monto": 75000
+        },
+        {
+            "fecha_hora": "2023-05-05 16:55:42",
+            "desembolso": 27,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "45678912",
+            "monto": 300000
+        },
+        {
+            "fecha_hora": "2023-05-06 13:10:27",
+            "desembolso": 28,
+            "tipo_documento": "tarjeta de identidad",
+            "numero_documento": "65432198",
+            "monto": 187500
+        },
+        {
+            "fecha_hora": "2023-05-07 08:45:36",
+            "desembolso": 29,
+            "tipo_documento": "cedula",
+            "numero_documento": "13579246",
+            "monto": 120000
+        },
+        {
+            "fecha_hora": "2023-05-08 12:30:19",
+            "desembolso": 30,
+            "tipo_documento": "pasaporte",
+            "numero_documento": "72638491",
+            "monto": 143000
+        }
+    ]
+}
