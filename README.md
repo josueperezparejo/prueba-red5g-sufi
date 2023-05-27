@@ -10,7 +10,7 @@ Lleva el diseño al código usando tu framework favorito, o con HTML y CSS, no h
 
 ## Login
 
-<img width="400px" src="https://raw.githubusercontent.com/josueperezparejo/images/main/login.png?token=GHSAT0AAAAAACDDJSQUCOOMNVKNFQ76U52GZDSEZCQ"/>
+<img width="800px" src="https://raw.githubusercontent.com/josueperezparejo/images/main/login.png?token=GHSAT0AAAAAACDDJSQUCOOMNVKNFQ76U52GZDSEZCQ"/>
 
 ## Home
 
