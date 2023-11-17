@@ -1,6 +1,6 @@
-import React, { useRef } from 'react'
-import iconDelete from '../../assets/iconDelete.svg'
-import './Formulario.css'
+import React, { useRef } from 'react';
+import iconDelete from '../../assets/iconDelete.svg';
+import './Formulario.css';
 
 export const Formulario = ({ setFilter, filter }) => {
 

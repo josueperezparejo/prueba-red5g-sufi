@@ -1,11 +1,11 @@
-import React, { useState } from 'react'
-import { useDispatch } from 'react-redux'
-import { Link, useNavigate } from 'react-router-dom'
-import { onLogin } from '../../slices/user/userSlice'
+import React, { useState } from 'react';
+import { useDispatch } from 'react-redux';
+import { Link, useNavigate } from 'react-router-dom';
+import { onLogin } from '../../slices/user/userSlice';
 
-import logo from '../../assets/logoSufi.svg'
-import background from '../../assets/background.png'
-import { Spinner } from '../../ui/Spinner'
+import logo from '../../assets/logoSufi.svg';
+import background from '../../assets/background.png';
+import { Spinner } from '../../ui/Spinner';
 
 export const LoginPage = () => {
 

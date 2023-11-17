@@ -1,10 +1,9 @@
-import React, { useEffect, useState } from 'react'
-import { useDispatch, useSelector } from 'react-redux'
-import { onLoadingStart, onLoadingEnd } from '../../slices/user/userSlice'
-import { Desembolsos, Formulario, Tabla } from '../components'
-import { getDataByDocument } from '../helpers/getDataByDocument'
-import { Spinner } from '../../ui'
-
+import React, { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { onLoadingStart, onLoadingEnd } from '../../slices/user/userSlice';
+import { Desembolsos, Formulario, Tabla } from '../components';
+import { getDataByDocument } from '../helpers/getDataByDocument';
+import { Spinner } from '../../ui';
 export const HomePage = () => {
 
   const dispatch = useDispatch()
@@ -27,11 +26,8 @@ export const HomePage = () => {
   return (
     <>
       <Desembolsos />
-
       <Formulario filter={filter} setFilter={setFilter} />
-
       {loading && <Spinner />}
-
       <Tabla data={data} loading={loading} />
     </>
   )

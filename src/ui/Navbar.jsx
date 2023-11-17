@@ -1,10 +1,10 @@
-import React from 'react'
-import { useDispatch } from 'react-redux'
-import { Link, useNavigate } from 'react-router-dom'
-import { onLogout } from '../slices/user/userSlice'
+import React from 'react';
+import { useDispatch } from 'react-redux';
+import { Link, useNavigate } from 'react-router-dom';
+import { onLogout } from '../slices/user/userSlice';
 
-import logo from '../assets/logoSufi.svg'
-import iconLogout from '../assets/iconLogout.svg'
+import logo from '../assets/logoSufi.svg';
+import iconLogout from '../assets/iconLogout.svg';
 
 export const Navbar = () => {
 

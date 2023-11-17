@@ -1,4 +1,4 @@
-import iconDownload from '../../assets/iconDownload.svg'
+import iconDownload from '../../assets/iconDownload.svg';
 
 export const Desembolsos = () => {
     return (
